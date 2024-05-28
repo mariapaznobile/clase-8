@@ -1,0 +1,9 @@
+.characterlist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 22px;
+    border: 1px solid black;
+}
